@@ -1,6 +1,6 @@
 # Computer Vision
 _________
-### Setup (Anaconda - python 3.7)
+### Setup (Anaconda - python 3.x)
 ```
 conda env create -f cv_macos.yml
 ```
@@ -12,4 +12,4 @@ conda env create -f cv_macos.yml
 - **Video Basics with Python and OpenCV** ✅
 - **Object Detection with OpenCV and Python** ✅
 - **Object Tracking** ✅
-- **Deep Learning for Computer Vision** ❌
+- **Deep Learning for Computer Vision** ✅
