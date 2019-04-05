@@ -13,3 +13,9 @@ conda env create -f cv_macos.yml
 - **Object Detection with OpenCV and Python** ✅
 - **Object Tracking** ✅
 - **Deep Learning for Computer Vision** ✅
+
+## Hand-Recognition
+
+### [Project](https://github.com/chuiizeet/Hand-Recognition)
+
+![5](https://i.imgur.com/M1YBCXu.jpg)
